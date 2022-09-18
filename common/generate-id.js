@@ -1,7 +1,7 @@
 /**
- *  ## Generate Random ID
+ *  ### Generate Random ID
  *
- *  return 3bea936ec6448e897d9ae885
+ *  @returns 3bea936ec6448e897d9ae885
  */
 function randomID() {
   return Array.from({ length: 6 }, () => {
@@ -10,9 +10,9 @@ function randomID() {
 }
 
 /**
- *  ## Generate Pattern ID
+ *  ### Generate Pattern ID
  *
- *  return 3680713d-3428-ab19-546b-f87db9efe697
+ *  @returns 3680713d-3428-ab19-546b-f87db9efe697
  */
 function patternID() {
   const pattern = [8, 4, 4, 4, 12];
