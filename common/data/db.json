@@ -1,0 +1,5 @@
+[
+  { "product": "shoes", "price": 19.99, "id": "b2efb325804a51831a162027" },
+  { "product": "snack", "price": 9.99, "id": "f81c06e6d62a061fc16fe0d7" },
+  { "product": "beverages", "price": 4.99, "id": "a13b03a83bad5e6bc5859d3a" }
+]

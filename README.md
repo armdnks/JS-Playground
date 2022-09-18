@@ -9,6 +9,7 @@
 | Projects   | Source Code                                                                             |
 | ---------- | --------------------------------------------------------------------------------------- |
 | GenerateID | [Source Code](https://github.com/armdnks/JS-Playground/blob/main/common/generate-id.js) |
+| LocalDB    | [Source Code](https://github.com/armdnks/JS-Playground/blob/main/common/local-db.js)    |
 
 ### ES6
 
