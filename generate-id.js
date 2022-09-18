@@ -9,8 +9,6 @@ function randomID() {
   }).join("");
 }
 
-console.log(randomID()); // 3bea936ec6448e897d9ae885
-
 /**
  *  ## Generate Pattern ID
  *
@@ -25,4 +23,4 @@ function patternID() {
     .join("-");
 }
 
-console.log(patternID()); // 3680713d-3428-ab19-546b-f87db9efe697
+module.exports = { randomID, patternID };

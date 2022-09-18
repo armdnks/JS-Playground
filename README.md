@@ -4,9 +4,10 @@
 
 ## Projects
 
-| Projects    | Source Code                                                                      |
-| ----------- | -------------------------------------------------------------------------------- |
-| Generate ID | [Source Code](https://github.com/armdnks/JS-Playground/blob/main/generate-id.js) |
+| Projects   | Source Code                                                                      |
+| ---------- | -------------------------------------------------------------------------------- |
+| GenerateID | [Source Code](https://github.com/armdnks/JS-Playground/blob/main/generate-id.js) |
+| StorageAPI | [Source Code](https://github.com/armdnks/JS-Playground/blob/main/storage-api.js) |
 
 ## Run in Bash Terminal
 
