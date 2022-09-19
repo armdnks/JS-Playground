@@ -7,11 +7,10 @@ var person = {
 function snakeToCamel(data) {
   let output = {};
   Object.keys(data).forEach((key) => {
-    const value = data[key];
     const newkey = key.toLowerCase().replace(/[_-][a-z]/g, (c) => {
       return c.toUpperCase().replace("-", "").replace("_", "");
     });
-    output[newkey] = value;
+    output[newkey] = data[key];
   });
   return output;
 }
